@@ -1,4 +1,4 @@
 # bamboo
 Python ninja code generator
 # using
-![Screenshot](bambooex1.png)
+!https://github.com/huseyinozturkk/bamboo/blob/main/pic/usingex1.png?raw=true
