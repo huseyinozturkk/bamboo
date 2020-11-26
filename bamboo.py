@@ -2,7 +2,7 @@ import random,os,argparse
 
 
 parser=argparse.ArgumentParser()
-parser.add_argument("-f","--file",dest="file_name")
+parser.add_argument("-f","--file",dest="file_name",required=True)
 parser.add_argument("-o","--o",dest="output_file_name",default="output.py")
 parser.add_argument("-l","-list",dest="var_name_gen_list",default="ninja")
 parser.add_argument("-vl","--vl",dest="var_name_len",default="10")
