@@ -1,7 +1,7 @@
 # bamboo
 Python ninja code generator
 # to do
-its not working if you have " and ' at the same time in your code.  
+its not working if you have " and ' at the same time in your code.[NOT SOLVED]
 # using
 ![Screenshot](https://github.com/huseyinozturkk/bamboo/blob/main/pic/usingex1.png?raw=true)\
 -f inputfile.py necessary\
